@@ -8,8 +8,8 @@
 <h2>Estrutura do Repositório</h2>
 Este repositório contém os seguintes projetos:
 
-<strong>Calculadora:</strong> Uma calculadora simples desenvolvida em C#. Este projeto demonstra operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
-<p>Ele é implementado com uma interface de linha de comando, com entrada e saída no terminal.</p>
+<br><strong>Calculadora:</strong> Uma calculadora simples desenvolvida em C#. Este projeto demonstra operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
+<p>Ele é implementado com uma interface de linha de comando, com entrada e saída no terminal.</p></br>
 
 <strong>Cadastro - CRUD Simples:</strong> Um projeto simples de cadastro, onde é possível criar, ler, atualizar e excluir registros de usuários.
 <p>Este projeto tem como objetivo demonstrar a implementação de operações básicas de um CRUD, utilizando listas em memória para armazenar os dados.</p>
