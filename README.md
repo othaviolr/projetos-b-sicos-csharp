@@ -20,8 +20,6 @@ Cada projeto está em uma pasta separada e possui uma breve descrição no próp
 <h3>Tecnologias Utilizadas</h3>
 C#
 
-<p>
 <I>
 Contribuições são bem-vindas! Se você tem sugestões de melhorias ou novos projetos para adicionar, fique à vontade para abrir uma issue ou pull request.
 </I>
-</p>
