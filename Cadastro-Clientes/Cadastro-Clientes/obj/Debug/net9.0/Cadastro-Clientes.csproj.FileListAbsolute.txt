@@ -1,0 +1,28 @@
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.AssemblyInfoInputs.cache
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.AssemblyInfo.cs
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.csproj.CoreCompileInputs.cache
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.exe
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.deps.json
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.runtimeconfig.json
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.dll
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.pdb
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.dll
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\refint\Cadastro-Clientes.dll
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.pdb
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.genruntimeconfig.cache
+E:\Projetos\Projeto1\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\ref\Cadastro-Clientes.dll
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.AssemblyInfoInputs.cache
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.AssemblyInfo.cs
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.csproj.CoreCompileInputs.cache
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.dll
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\refint\Cadastro-Clientes.dll
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.pdb
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.exe
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.deps.json
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.runtimeconfig.json
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.dll
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\bin\Debug\net9.0\Cadastro-Clientes.pdb
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\Cadastro-Clientes.genruntimeconfig.cache
+E:\Projetos Básicos CSharp\Projetos\Cadastro-Clientes\Cadastro-Clientes\obj\Debug\net9.0\ref\Cadastro-Clientes.dll

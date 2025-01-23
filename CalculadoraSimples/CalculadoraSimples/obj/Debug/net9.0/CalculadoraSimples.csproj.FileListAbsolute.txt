@@ -1,0 +1,28 @@
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.exe
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.deps.json
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.runtimeconfig.json
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.dll
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.pdb
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.AssemblyInfoInputs.cache
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.AssemblyInfo.cs
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.dll
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\refint\CalculadoraSimples.dll
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.pdb
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.genruntimeconfig.cache
+E:\Projetos\Projeto1\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\ref\CalculadoraSimples.dll
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.exe
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.deps.json
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.runtimeconfig.json
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.dll
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\bin\Debug\net9.0\CalculadoraSimples.pdb
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.AssemblyInfoInputs.cache
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.AssemblyInfo.cs
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.dll
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\refint\CalculadoraSimples.dll
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.pdb
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\CalculadoraSimples.genruntimeconfig.cache
+E:\Projetos Básicos CSharp\Projetos\CalculadoraSimples\CalculadoraSimples\obj\Debug\net9.0\ref\CalculadoraSimples.dll
